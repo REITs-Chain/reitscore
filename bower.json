@@ -1,0 +1,17 @@
+{
+  "name": "reitscore",
+  "homepage": "https://github.com/cssxn/reitscore",
+  "authors": [
+    "danyang.wang <cssxn@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
